@@ -1,0 +1,118 @@
+
+/*          IMAGES          */
+/*          Block1          */
+.img-box1-1{
+    margin: 2px 0;
+    height: 300px;
+    width: 90%;
+    background-image: url(images/box1-1.jpg);
+    background-image: cover;
+    margin-left: 5%;
+}
+.box2a-1{
+    background-image: url(images/box2-1.jpg);
+    background-size: cover;
+}
+.box2a-2{
+    background-image: url(images/box2-2.jpg);
+    background-size: cover;
+}
+.box2a-3{
+    background-image: url(images/box2-3.jpg);
+    background-size: cover;
+}
+.box2a-4{
+    background-image: url(images/box2-4.jpg);
+    background-size: cover;
+}
+.box3a-1{
+    background-image: url(images/box3-1.jpg);
+    background-size: cover;
+}
+.box3a-2{
+    background-image: url(images/box3-2.jpg);
+    background-size: cover;
+}
+.box3a-3{
+    background-image: url(images/box3-3.jpg);
+    background-size: cover;
+}
+.box3a-4{
+    background-image: url(images/box3-4.jpg);
+    background-size: cover;
+}
+.box4a-1{
+    background-image: url(images/box4-1.jpg);
+    background-size: cover;
+}
+.box4a-2{
+    background-image: url(images/box4-2.jpg);
+    background-size: cover;
+}
+.box4a-3{
+    background-image: url(images/box4-3.jpg);
+    background-size: cover;
+}
+.box4a-4{
+    background-image: url(images/box4-4.jpg);
+    background-size: cover;
+}
+
+/*          Block2              */
+
+.box1b-1{
+    background-image: url(images/box1b-1.jpg);
+    background-size: cover;
+}
+.box1b-2{
+    background-image: url(images/box1b-2.jpg);
+    background-size: cover;
+}
+.box1b-3{
+    background-image: url(images/box1b-3.jpg);
+    background-size: cover;
+}
+.box1b-4{
+    background-image: url(images/box1b-4.jpg);
+    background-size: cover;
+}
+.box2b-1{
+    background-image: url(images/box2b-1.jpg);
+    background-size: cover;
+}
+.box2b-2{
+    background-image: url(images/box2b-2.jpg);
+    background-size: cover;
+}
+.box2b-3{
+    background-image: url(images/box2b-3.jpg);
+    background-size: cover;
+}
+.box2b-4{
+    background-image: url(images/box2b-4.jpg);
+    background-size: cover;
+}
+.img-box3-2{
+    margin: 2px 0;
+    height: 300px;
+    width: 90%;
+    background-image: url(images/box3b-2.jpg);
+    background-image: cover;
+    margin-left: 5%;
+}
+.box4b-1{
+    background-image: url(images/box4b-1.jpg);
+    background-size: cover;
+}
+.box4b-2{
+    background-image: url(images/box4b-2.jpg);
+    background-size: cover;
+}
+.box4b-3{
+    background-image: url(images/box4b-3.jpg);
+    background-size: cover;
+}
+.box4b-4{
+    background-image: url(images/box4b-4.jpg);
+    background-size: cover;
+}
