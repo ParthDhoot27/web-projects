@@ -5,13 +5,17 @@
     border: border-box;
     font-family: Arial;
 }
-
 /*      overall     */
 body{
     background-color: #e4e1e1;
 }
+button{
+    border: none;
+    padding: .1vw;
+}
 a{
     text-decoration: none;
+    color: white;
 }
 a:hover{
     color: white;
